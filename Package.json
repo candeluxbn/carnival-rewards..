@@ -1,0 +1,12 @@
+{
+  "name": "carnival-rewards",
+  "version": "1.0.0",
+  "description": "Generador de enlaces de recompensa para Carnival Tycoon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
